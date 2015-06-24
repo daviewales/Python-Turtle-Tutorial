@@ -6,3 +6,6 @@ The PDF version of the tutorial was generated with pandoc, using the following i
 
     pandoc Tutorial.md -o Tutorial.pdf --highlight-style=tango
 
+You can download just the PDF from the [releases page](https://github.com/daviewales/Python-Turtle-Tutorial/releases/latest).
+
+
