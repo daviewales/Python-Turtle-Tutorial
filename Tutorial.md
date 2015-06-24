@@ -214,7 +214,7 @@ for i in range(10):
 
 It would be painful to have to type all our functions in every time we wanted to use them. Fortunately, Python lets us write them down in a text file, and `import` them when we want to use them.
 
-Open another terminal window, and navigate to where you want to store your Python modules. Then, create a folder called 'python-modules' and navigate to it. You might try the following:
+Exit Python, by pressing `control-D`. Then navigate to where you want to store your Python modules. Finally, create a folder called 'python-modules' and navigate to it. You might try the following:
 
 ~~~ {.bash}
 cd ~/Documents
@@ -245,7 +245,7 @@ def square(size):
 
 Now, save the file and exit `nano` by typing `control-O` then `control-X`.
 
-Now, run `python`.
+Now, run `python` again, in the same Terminal window.
 
 Into the interactive prompt, type
 
@@ -264,7 +264,7 @@ e.g. For this shape module, you have to do the following in the terminal before 
 cd ~/Documents/python-modules
 ~~~
 
-You can check to see what files are in a directory with the `ls` command.
+You can check to see what files are in a directory with the `ls` command. You should always be able to see your module before running `python`
 
 # Challenge
 
