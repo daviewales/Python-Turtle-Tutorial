@@ -270,7 +270,7 @@ You can check to see what files are in a directory with the `ls` command. You sh
 
 Make functions to draw triangles, pentagons and hexagons, and add them to the `shape.py` module.
 
-**HINT 1:** The angle for a triangle is 60, for a pentagon is 72, and for a hexagon is 60.  
+**HINT 1:** The angle for a triangle is 120, for a pentagon is 72, and for a hexagon is 60.  
 **HINT 2:** Remember — You can edit the `shape.py` module by navigating to `~/Documents/python-modules`, and editing the `shape.py` file with `nano`:
 
 ~~~ {.bash}
